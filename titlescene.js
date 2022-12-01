@@ -11,7 +11,7 @@ phina.define('TitleScene', {
 
     // タイトルラベル
     Label({
-      text: "Music-Game4",
+      text: "Music-Game8",
       fill: "black",
       stroke: "#2F3CEC",
       strokeWidth: 6,
